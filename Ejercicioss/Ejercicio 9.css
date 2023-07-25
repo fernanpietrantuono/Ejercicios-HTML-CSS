@@ -1,0 +1,52 @@
+h1 {
+  color: darkcyan;
+}
+p .red {
+  color: red;
+}
+.destacado {
+  color: orange;
+}
+h2 {
+  color: blue;
+}
+a:link {
+  color: red;
+}
+a em {
+  color: blue;
+}
+.especial {
+  color: blueviolet;
+}
+table,
+th,
+td {
+  border-collapse: collapse;
+  border: 1px solid;
+  border-color: black;
+}
+caption {
+  opacity: 0;
+}
+th.especial {
+  color: orange;
+}
+td {
+  color: green;
+}
+.orange {
+  color: orange;
+}
+tr {
+  color: red;
+}
+div {
+  color: darkolivegreen;
+}
+#especial {
+  color: magenta;
+}
+#green {
+  color: green;
+}
